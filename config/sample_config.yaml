@@ -1,0 +1,9 @@
+API:
+  BASE: 127.0.0.1
+  ENDPOINT_BOOK_LIST: /books/list/endpoint.jsp
+
+PARAMS:
+  BOOKS_FOLDER: books
+  BOOKS_PER_PAGE: 20
+  OUTPUT_DIR: ~/Downloads/temp
+  TEMP_FOLDER: temp
