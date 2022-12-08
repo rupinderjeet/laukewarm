@@ -26,5 +26,7 @@ def load_book_detail():
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    load_book_list()
-    load_book_detail()
+    # load_book_list()
+    # load_book_detail()
+    # download_book_list_pages()
+    print('__done__')
